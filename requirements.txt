@@ -1,0 +1,5 @@
+flet==0.22.0
+plotly==5.22.0
+pandas
+networkx
+requests

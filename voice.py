@@ -1,6 +1,6 @@
 import requests
 
-SARVAM_API_KEY = "sk_rc853rl4_5uIuUN2BrdkpKFqZia1T10vV"
+SARVAM_API_KEY = "sk_rc853rl4_5uIuUN2Brd sme_retail_loan  kpKFqZia1T10vV"
 
 def stt_from_file(file_path: str) -> str:
     url = "https://api.sarvam.ai/speech-to-text"
